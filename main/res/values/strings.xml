@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tooth troll battles!</string>
+    <string name="hygienisti">Hygienist</string>
+    <string name="peikko">Tooth Troll</string>
+    <string name="hammaslanka">Floss</string>
+    <string name="fluori">Toothpaste</string>
+    <string name="suuvesi">Mouthwash</string>
+    <string name="ksylitoli">Xylitol gum</string>
+    <string name="happohyokkays">Happohyökkäys</string>
+    <string name="sokeri">Sokeri</string>
+    <string name="karies">Karies</string>
+    <string name="limonadi">Limonadi</string>
+    <string name="playerturntext">Waiting for player action</string>
+    <string name="hygienist_ability_text_1">Hygienist used Fluorine toothpaste!</string>
+    <string name="hygienist_ability_text_2">Hygienist used Floss!</string>
+    <string name="hygienist_ability_text_3">Hygienist used Mouthwash!</string>
+    <string name="hygienist_ability_text_4">Hygienist used Xylitol gum!</string>
+    <string name="troll_ability_text_1">Tooth troll used Acid attack!</string>
+    <string name="troll_ability_text_2">Tooth troll used Demineralization!</string>
+    <string name="troll_ability_text_3">Tooth troll used Caries!</string>
+    <string name="troll_gains_lvl">Tooth troll is dead! Another troll appears!</string>
+    <string name="hygienist_gains_lvl">You have leveled up!</string>
+</resources>
